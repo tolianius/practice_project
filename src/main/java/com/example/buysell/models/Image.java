@@ -34,6 +34,10 @@ public class Image {
         this.name = name;
     }
 
+    public void setNameId(String name) {
+        this.name = name;
+    }
+
     public String getOriginalFileName() {
         return originalFileName;
     }
